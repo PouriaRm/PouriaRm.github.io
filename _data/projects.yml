@@ -1,0 +1,88 @@
+---
+- name: Optimization of Blood Delivery Service in Emergency Humanitarian
+  organization: 
+  github_repo: Humanitarin-Logistic
+  image: federalist.png
+  link: https://github.com/PouriaRm/Humanitarin-Logistic
+  about: |
+    <a href="https://github.com/PouriaRm/Humanitarin-Logistic">Optimization of Blood Delivery Service in Emergency Humanitarian</a> is a developed version of Vanet Simulation in order to find best chain of emergency vehicle to deliever
+    blood in crisis such as earthquake, flood and etc.
+    <br/>
+    I am currently the engineering lead on this project, building upon the great work of previous Simulation developers.
+- name: Recognization Persian Poet
+  organization: Guilan University
+  github_repo: Persian-Poets-Recognizer
+  image: calc.png
+  link: https://github.com/PouriaRm/Persian-Poets-Recognizer
+  about: |
+    <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Persian-Poets-Recognizer</a> •	NLP project in the Persian language  
+•	Predicted Persian Poet and its century from Persian poetry.  
+•	Coded in Python using Hazm library. 
+
+    <br/>
+    In addition to coding, I also participated in user research sessions and worked through nlp.
+- name: Genetic Algorithm
+  organization: Guilan University
+  github_repo: Persian-Poets-Recognizer
+  image: iswp2017.png
+  link: https://github.com/PouriaRm/Persian-Poets-Recognizer
+  about: |
+    The <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Genetic Algorithm</a> •	Michalewicz’s function
+•	Binary Genetic and Real Genetic comparison
+•	Roulette Wheel and Tournament Selection
+•	Single point, Two-point and Uniform Crossover for Binary Genetic
+•	Math, Line Recombination and BLX-a Crossover for Real Genetic
+•	Uniform Mutation
+•	Implemented in Java
+•	Available on my Github page
+
+    <br/>
+    I was the primary developer of the this project when I was at university, and staff who came after me have continued to improve its functionality.
+- name:  Saham
+  organization: Keshavarzi Insurence
+  image: gemss2.png
+  link: https://github.com/PouriaRm/Persian-Poets-Recognizer
+  about: |
+    The <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Saham</a> •	The final year BSc project in co-operation with Keshavarzi Insurence company
+•	Android application with laravel backend
+•	An evaluator system for measuring damages in rice farms
+•	Layouts designed by Adobe XD
+•	Google Map usage  
+•	Complex UI implementation  
+•	User Dashboard  
+•	Coded in java
+
+    <br/>
+    I was the primary developer of Saham.
+- name:  Computer Engineering Department Blog
+  organization: Guilan University
+  github_repo: Persian-Poets-Recognizer
+  image: iswp2012.png
+  link: https://github.com/PouriaRm/Persian-Poets-Recognizer
+  about: |
+    Like the ISWP 2017, the <a href="http://2012.texasstatewaterplan.org">2012 Interactive State Water Plan</a>•	Blog news with different categories and tags
+•	Create, edit and delete post and user
+•	Register and log in to accounts for stuff, professors, students and admin
+•	Permission on data and posts
+•	File upload
+•	Set deadline timer for assignment and project
+•	Using Mysql Database
+•	Coded in Flask framework (Python)
+
+    <br/>
+    I was the primary developer and designer of blog and worked closely with department staff.
+- name: Tcl Compiler
+  image: maptime.png
+  link: https://github.com/PouriaRm/Persian-Poets-Recognizer
+  about: |
+    <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Tcl Compiler</a> •	Lexical analyser
+•	Syntax analyser
+•	Semantic analyser
+•	Using Java Cup for the parser
+
+# - name: CMS Medicaid Provider Charge Data Viz
+#   image: cmsviz.png
+#   link: https://jseppi.github.io/cms-viz
+#   github_repo: jseppi/cms-viz
+#   about: |
+    
