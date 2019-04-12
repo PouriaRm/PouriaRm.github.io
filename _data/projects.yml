@@ -45,12 +45,12 @@
     <br/>
     I was the primary developer and designer of blog and worked closely with department staff.
 - name: Tcl Compiler
-  image: compiler.png
+  image: compiler.jpg
   link: https://github.com/PouriaRm/Persian-Poets-Recognizer
   about: |
     <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Tcl Compiler</a>	Lexical analyser <br/>	Syntax analyser	Semantic analyser <br/>	Using Java Cup for the parser
 - name: Borj
-  image: borj.png
+  image: borj.jpg
   link: https://github.com/PouriaRm/Persian-Poets-Recognizer
   about: |
     <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Borj</a>	is a android game
