@@ -12,7 +12,7 @@
 - name: Recognization Persian Poet
   organization: Guilan University
   github_repo: Persian-Poets-Recognizer
-  image: calc.png
+  image: poet.png
   link: https://github.com/PouriaRm/Persian-Poets-Recognizer
   about: |
     <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Persian-Poets-Recognizer</a> •	NLP project in the Persian language  	Predicted Persian Poet and its century from Persian poetry.  	Coded in Python using Hazm library. 
