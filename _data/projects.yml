@@ -2,7 +2,7 @@
 - name: Optimization of Blood Delivery Service in Emergency Humanitarian
   organization: 
   github_repo: Humanitarin-Logistic
-  image: federalist.png
+  image: Humanitarian.png
   link: https://github.com/PouriaRm/Humanitarin-Logistic
   about: |
     <a href="https://github.com/PouriaRm/Humanitarin-Logistic">Optimization of Blood Delivery Service in Emergency Humanitarian</a> is a developed version of Vanet Simulation in order to find best chain of emergency vehicle to deliever
