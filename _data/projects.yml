@@ -21,7 +21,7 @@
 - name: Genetic Algorithm
   organization: Guilan University
   github_repo: Persian-Poets-Recognizer
-  image: iswp2017.png
+  image: genetic.png
   link: https://github.com/PouriaRm/Persian-Poets-Recognizer
   about: |
     The <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Genetic Algorithm</a> •	Michalewicz’s function	Binary Genetic and Real Genetic comparison	Roulette Wheel and Tournament Selection	Single point, Two-point and Uniform Crossover for Binary Genetic	Math, Line Recombination and BLX-a Crossover for Real Genetic	Uniform Mutation	Implemented in Java	Available on my Github page
