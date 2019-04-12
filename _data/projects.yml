@@ -49,7 +49,7 @@
   link: https://github.com/PouriaRm/Persian-Poets-Recognizer
   about: |
     <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Tcl Compiler</a>	Lexical analyser <br/>	Syntax analyser	Semantic analyser <br/>	Using Java Cup for the parser
-name: Borj
+- name: Borj
   image: borj.png
   link: https://github.com/PouriaRm/Persian-Poets-Recognizer
   about: |
