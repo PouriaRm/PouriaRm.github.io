@@ -1,5 +1,5 @@
 ---
-- name: Optimization of Blood Delivery Service in Emergency Humanitarian
+- name: AI Component for VANET Simulator, Java
   organization: 
   github_repo: Humanitarin-Logistic
   image: Humanitarian.png
@@ -9,34 +9,34 @@
     blood in crisis such as earthquake, flood and etc.
     <br/>
   
-- name: Recognization Persian Poet
+- name: Classification of Persian Poets, Python
   organization: Guilan University
   github_repo: Persian-Poets-Recognizer
   image: poet.png
   link: https://github.com/PouriaRm/Persian-Poets-Recognizer
   about: |
     <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Persian-Poets-Recognizer</a> •	NLP project in the Persian language  	Predicted Persian Poet and its century from Persian poetry.  	Coded in Python using Hazm library. 
-- name: Genetic Algorithm
+- name:  Genetic Algorithm Problem, Java
   organization: Guilan University
   github_repo: Persian-Poets-Recognizer
   image: genetic.png
   about: |
     The <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Genetic Algorithm</a> •	Michalewicz’s function	Binary Genetic and Real Genetic comparison	Roulette Wheel and Tournament Selection	Single point, Two-point and Uniform Crossover for Binary Genetic	Math, Line Recombination and BLX-a Crossover for Real Genetic	Uniform Mutation	Implemented in Java	Available on my Github page
-- name:  Saham
+- name:   Saham, Android Application
   organization: Keshavarzi Insurence
   image: saham.png
   about: |
     The <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Saham</a> •	The final year BSc project in co-operation with Keshavarzi Insurence company	Android application with laravel backend	An evaluator system for measuring damages in rice farms	Layouts designed by Adobe XD	Google Map usage  	Complex UI implementation  	User Dashboard  	Coded in java
     <br/>
     I was the primary developer of Saham.
-- name:  Computer Engineering Department Blog
+- name:   Computer Engineering Department Blog, Flask
   organization: Guilan University
   github_repo: Persian-Poets-Recognizer
   image: school.png
   about: |
     Blog news with different categories and tags	Create, edit and delete post and user	Register and log in to accounts for stuff, professors, students and admin	Permission on data and posts	File upload	Set deadline timer for assignment and project	Using Mysql Database	Coded in Flask framework (Python)
     <br/>
-- name: Tcl Compiler
+- name: TCL Language Mini Compiler, Java
   image: compiler.png
   about: |
    Tcl Compiler	Lexical analyser <br/>	Syntax analyser	Semantic analyser <br/>	Using Java Cup for the parser
