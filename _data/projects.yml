@@ -6,7 +6,8 @@
   link: https://github.com/PouriaRm/AI-Component-for-VANET-Simulator
   about: |
     <a href="https://github.com/PouriaRm/AI-Component-for-VANET-Simulator">AI Component for VANET Simulator</a> is a component for VANET Simulator that enables the researcher to employ different artificial intelligence approaches to solve network and supply chains problems.
-    <br/>
+    <br/><br/>
+    <b> Features:</b>
     <ul>
     <li>Support Evolutionary algorithms such  as Genetic algorithm</li>
     <li>Support different Scenarios </li>
