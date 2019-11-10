@@ -31,37 +31,98 @@
     <li><i>Supervisor: Prof. Mirroshandel</i></li><br/>
     </ul>
 - name:  Genetic Algorithm Problem, Java
-  organization: Guilan University
-  github_repo: Genetic Algorithm Problem, Java
+  organization: 
+  github_repo: PouriaRm/Genetic-Algorithm-Problem
   link: https://github.com/PouriaRm/Genetic-Algorithm-Problem
   image: genetic.png
   about: |
-    The <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Genetic Algorithm</a> •	Michalewicz’s function	Binary Genetic and Real Genetic comparison	Roulette Wheel and Tournament Selection	Single point, Two-point and Uniform Crossover for Binary Genetic	Math, Line Recombination and BLX-a Crossover for Real Genetic	Uniform Mutation	Implemented in Java	Available on my Github page
+    The <a href="https://github.com/PouriaRm/Genetic-Algorithm-Problem">Genetic Algorithm Problem</a> •	was an undergraduate project of Principles of Computational Intelligence course. The purpose of this project is to compare and investigate two examples of binary and real genetic algorithms with Michalewicz’s function as a fitness function. <br>
+    <b> Features:</b>
+    <ul>
+    <li>Michalewicz’s function as a fitness function</li>
+    <li>Comparison of Binary Genetic and Real Genetic</li>
+    <li>Roulette Wheel and Tournament Selection</li>
+    <li>Single point, Two-point and Uniform Crossover for Binary Genetic</li>
+    <li>Math, Line Recombination and BLX-a Crossover for Real Genetic</li>
+    <li>Uniform Mutation</li>
+    </ul>
 - name:   Saham, Android Application
-  organization: Keshavarzi Insurence
+  organization: 
   image: saham.png
   link: https://pouriarm.github.io/Saham/
   about: |
-    The <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Saham</a> •	The final year BSc project in co-operation with Keshavarzi Insurence company	Android application with laravel backend	An evaluator system for measuring damages in rice farms	Layouts designed by Adobe XD	Google Map usage  	Complex UI implementation  	User Dashboard  	Coded in java
+    The <a href="https://pouriarm.github.io/Saham/">Saham</a> is an Android client application for evaluating Iranian farms system as my final undergraduate’s project.Saham was designed to facilitate the evaluation of damage in Iranian agricultural fields.
     <br/>
-    I was the primary developer of Saham.
+    <b> Features:</b>
+    <ul>
+    <li>Recording the amount of damage to rice farms with an especial report and taking an image</li>
+    <li>Designed by Adobe XD UI Tool Kit</li> 
+    <li>Using acceleration sensor and GPS to navigate evaluator</li>
+    <li>User manager with Authentication OAuth2</li>
+    <li>Using KML Google technologies to display the correct area on the map</li>
+    <li>Supervisor: Professor Shakeri</li>
+    </ul>
 - name:   Computer Engineering Department Blog, Flask
-  organization: Guilan University
-  github_repo: Computer Engineering Department Blog, Flask
+  organization: 
+  github_repo: PouriaRm/CE-DepartmentBlog
   link: https://github.com/PouriaRm/CE-DepartmentBlog
   image: school.png
   about: |
-    Blog news with different categories and tags	Create, edit and delete post and user	Register and log in to accounts for stuff, professors, students and admin	Permission on data and posts	File upload	Set deadline timer for assignment and project	Using Mysql Database	Coded in Flask framework (Python)
+    The <a href="https://github.com/PouriaRm/CE-DepartmentBlog">Computer Engineering Department Blog</a> was an undergraduate project of Internet Engineering course which was implemented with  the Flask framework (Python).
     <br/>
+    <b> Features:</b>
+    <ul>
+    <li>Three-level of permission access consists of the admin user, professor and student</li>
+    <li>Adding, updating and deleting posts as an admin user and professor author</li>
+    <li>Uploading Assignments with a specific deadline for each course</li>
+    <li>Separating each course and post with specific tags and categories</li>
+    <li>Session Management</li>
+    <li>Used MySQL Database</li>
+    </ul>
+    
 - name: TCL Language Mini Compiler, Java
+  github_repo: PouriaRm/TCL-Mini-Compiler
   image: compiler.png
   about: |
-   Tcl Compiler	Lexical analyser <br/>	Syntax analyser	Semantic analyser <br/>	Using Java Cup for the parser
-- name: Borj
+   The <a href="https://github.com/PouriaRm/TCL-Mini-Compiler">TCL Language Mini Compiler</a> was an undergraduate project of Fundamentals of Compiler Design course that was implemented with Java. 
+   <br/>
+   <b> Features:</b>
+   <ul>
+   <li>Lexical Analysis</li>
+   <li>Syntax Analysis</li>
+   <li>Semantic Analysis</li>
+   <li>Used Java Cup library as a parser</li>
+   <li>Available on my Github page with detailed video</li>
+   </ul>
+   
+- name: Tower
   image: borj.png
-  link: https://github.com/PouriaRm/TCL-Mini-Compiler
+  link: https://myket.ir/app/com.rm.pouria.towergame?lang=en
   about: |
-    <a href="https://myket.ir/app/com.rm.pouria.towergame">Borj</a>	is a android game and it's available on Mayket. 
+    The<a href="https://myket.ir/app/com.rm.pouria.towergame">Tower</a>	is a game which the one who builds the tallest tower is the winner.
+    <br>
+    <b> Features:</b>
+   <ul>
+   <li>Implemented with JS and bind with Java </li>
+   <li>Firebase cloud messaging for Android notification</li>
+   <li>Using Fabric Crashlitics for Analysing Users Experience</li>
+   <li>Implemented Tapsell Advertisement service</li>
+   <li>Available on Myket (Iranian Android Market)</li>
+   <li>Current active installation: upper 100 devices</li>
+   </ul>
+   
+- name:  ABC IELTS, Android Application
+  image: borj.png
+  link: https://myket.ir/app/com.pouria.rm.abc?lang=en
+  about: |
+    The<a href="https://myket.ir/app/com.pouria.rm.abc?lang=en">ABC IELTS</a> is an Electronic edition of ABC IELTS Speaking book from Jungle Publication.
+    <br>
+    <b> Features:</b>
+   <ul>
+   <li>Reserving an Online Speaking interview for users</li>
+   <li>Available on Myket (Iranian Android Market)</li>
+   <li>Current active installation: upper 100 devices</li>
+   </ul>
 
 # - name: CMS Medicaid Provider Charge Data Viz
 #   image: cmsviz.png
