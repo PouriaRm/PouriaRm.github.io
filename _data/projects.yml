@@ -1,7 +1,7 @@
 ---
 - name: AI Component for VANET Simulator, Java
   organization: 
-  github_repo: AI Component for VANET Simulator, Java
+  github_repo: PouriaRm/AI-Component-for-VANET-Simulator
   image: Humanitarian.png
   link: https://github.com/PouriaRm/AI-Component-for-VANET-Simulator
   about: |
@@ -15,12 +15,20 @@
     </ul>
   
 - name: Classification of Persian Poets, Python
-  organization: Guilan University
-  github_repo: Classification of Persian Poets, Python
+  organization: 
+  github_repo: PouriaRm/Classification-Persian-Poets
   image: poet.png
   link: https://github.com/PouriaRm/Classification-Persian-Poets
   about: |
-    <a href="https://github.com/PouriaRm/Persian-Poets-Recognizer">Persian-Poets-Recognizer</a> •	NLP project in the Persian language  	Predicted Persian Poet and its century from Persian poetry.  	Coded in Python using Hazm library. 
+    <a href="https://github.com/PouriaRm/Classification-Persian-Poets">Classification of Persian Poets</a> was an undergraduate project of Foundations of Speech and Language Processing course. The purpose of this project was to explore text classification methods in NLP with machine learning on Persian Poets. The Classification is being constructed in various logical phases.<br/>
+    <b> Features:</b>
+    <ul>
+    <li>Predicting Persian Poet and its century trained with Persian Poetry Dataset</li>
+    <li>Print a report about Accuracy and F-measure</li>
+    <li>Used Hazm library for normalization and tokenization Persian text</li>
+    <li>Used Naive Bayes model for training</li>
+    <li>Supervisor: Prof. Mirroshandel </li><br/>
+    </ul>
 - name:  Genetic Algorithm Problem, Java
   organization: Guilan University
   github_repo: Genetic Algorithm Problem, Java
