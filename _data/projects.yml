@@ -28,7 +28,7 @@
     <li>Print a report about Accuracy and F-measure</li>
     <li>Used Hazm library for normalization and tokenization Persian text</li>
     <li>Used Naive Bayes model for training</li>
-    <li><i>Supervisor: Prof. Mirroshandel</i></li><br/>
+    <li><i>Supervisor: Prof. Mirroshandel</i></li>
     </ul>
 - name:  Genetic Algorithm Problem, Java
   organization: 
@@ -46,6 +46,7 @@
     <li>Single point, Two-point and Uniform Crossover for Binary Genetic</li>
     <li>Math, Line Recombination and BLX-a Crossover for Real Genetic</li>
     <li>Uniform Mutation</li>
+    <li><i>Supervisor: Prof. Shakeri</i></li>
     </ul>
 - name:   Saham, Android Application
   organization: 
