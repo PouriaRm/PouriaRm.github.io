@@ -1,123 +1,104 @@
 ---
-- name: AI Component for VANET Simulator, Java
-  organization: 
-  github_repo: PouriaRm/AI-Component-for-VANET-Simulator
-  image: 
-  link: https://github.com/PouriaRm/AI-Component-for-VANET-Simulator
+- name: Classification of Persian handwritten numbers with a neural network, Python
   about: |
-    <a href="https://github.com/PouriaRm/AI-Component-for-VANET-Simulator">AI Component for VANET Simulator</a> is a component for VANET Simulator that enables the researcher to employ different artificial intelligence approaches to solve network and supply chains problems.
-    <br><br><br><br>
-    <b> Features:</b>
-    <ul>
-    <li>Support Evolutionary algorithms such  as Genetic algorithm</li>
-    <li>Support different Scenarios </li>
-    <li>Used parallelization techniques to reduce the time of processing </li>
-    <li><i>Supervisor: Prof. Shakeri</i></li>
-    </ul>
-  
-- name: Classification of Persian Poets, Python
-  organization: 
-  github_repo: PouriaRm/Classification-Persian-Poets
-  image: 
-  link: https://github.com/PouriaRm/Classification-Persian-Poets
-  about: |
-    <a href="https://github.com/PouriaRm/Classification-Persian-Poets">Classification of Persian Poets</a> was an undergraduate project of Foundations of Speech and Language Processing course. The purpose of this project was to explore text classification methods in NLP with machine learning on Persian Poets. The Classification is being constructed in various logical phases.<br/><br/>
-    <b> Features:</b>
-    <ul>
-    <li>Predicting Persian Poet and its century trained with Persian Poetry Dataset</li>
-    <li>Print a report about Accuracy and F-measure</li>
-    <li>Used Hazm library for normalization and tokenization Persian text</li>
-    <li>Used Naive Bayes model for training</li>
-    <li><i>Supervisor: Prof. Mirroshandel</i></li>
-    </ul>
-- name:  Genetic Algorithm Problem, Java
-  organization: 
-  github_repo: PouriaRm/Genetic-Algorithm-Problem
-  link: https://github.com/PouriaRm/Genetic-Algorithm-Problem
-  about: |
-    The <a href="https://github.com/PouriaRm/Genetic-Algorithm-Problem">Genetic Algorithm Problem</a> was an undergraduate project of Principles of Computational Intelligence course. The purpose of this project is to compare and investigate two examples of binary and real genetic algorithms with Michalewicz’s function as a fitness function. <br>
-    <br>
-    <b> Features:</b>
-    <ul>
-    <li>Michalewicz’s function as a fitness function</li>
-    <li>Comparison of Binary Genetic and Real Genetic</li>
-    <li>Roulette Wheel and Tournament Selection</li>
-    <li>Single point, Two-point and Uniform Crossover for Binary Genetic</li>
-    <li>Math, Line Recombination and BLX-a Crossover for Real Genetic</li>
-    <li>Uniform Mutation</li>
-    <li><i>Supervisor: Prof. Shakeri</i></li>
-    </ul>
-- name:   Saham, Android Application
-  organization: 
-  link: https://pouriarm.github.io/Saham/
-  about: |
-    The <a href="https://pouriarm.github.io/Saham/">Saham</a> is an Android client application for evaluating Iranian farms system as my final undergraduate’s project.Saham was designed to facilitate the evaluation of damage in Iranian agricultural fields.
-    <br>
+    It was a project for Elementary Data Science Summer School at IPM.
     <br><br>
     <b> Features:</b>
     <ul>
-    <li>Recording the amount of damage to rice farms with an especial report and taking an image</li>
-    <li>Designed by Adobe XD UI Tool Kit</li> 
-    <li>Using acceleration sensor and GPS to navigate evaluator</li>
-    <li>User manager with Authentication OAuth2</li>
-    <li>Using KML Google technologies to display the correct area on the map</li>
-    <li><i>Supervisor: Prof. Shakeri</i></li>
+    <li>Classification of handwritten numbers with MLP Approach in Neural Network</li>
+    <li>Comparison of a hidden layer with 200 and 600 Neuron</li>
+    <li>Comparison of two hidden layers with 300 and 500 Neuron</li>
+    <li>Wrote a report about Accuracy and Confusion Matrix</li>
+    <li><i>Supervisor: Prof. Veisi</i></li>
     </ul>
-- name:   Computer Engineering Department Blog, Flask
-  organization: 
-  github_repo: PouriaRm/CE-DepartmentBlog
-  link: https://github.com/PouriaRm/CE-DepartmentBlog
+  
+- name: Classification of Persian texts with simple Bayes and KNN, Python
   about: |
-    The <a href="https://github.com/PouriaRm/CE-DepartmentBlog">Computer Engineering Department Blog</a> was an undergraduate project of Internet Engineering course which was implemented with  the Flask framework (Python).
+    It was a project for Elementary Data Science Summer School at IPM<br/><br/>
+    <b> Features:</b>
+    <ul>
+    <li>Used the Laplace smoothing method α =1 in Simple Bayes</li>
+    <li>Work on Zebra Dataset</li>
+    <li>Wrote a report about Accuracy and Confusion Matrix for KNN for K=1, 5, 15</li>
+    <li>Wrote a report about Accuracy, Confusion Matrix, Precision, Recall and Measure for Simple Bayes</li>
+    <li><i>Supervisor: Prof. Veisi</i></li>
+    </ul>
+- name: VHDL Ping Pong Game, VHDL
+  about: |
+    It was an undergraduate project of Computer Aided Digital System Design course written in VHDL and implemented on Altera Cyclone V.
+    <br><br>
+    <b> Features:</b>
+    <ul>
+    <li>Multiplayer: Battle against your friend</li>
+    <li>Playing against the AI</li>
+    <li>Score Keeping</li>
+    <li>Increasing Speed of the game each 10 sec</li>
+    <li>Collision Detection and Resolution</li>
+    <li>VGA Output, game video</li>
+    <li>Text and score display on VGA and on the seven segments of each player</li>
+    <li>Basic AI for paddles</li>
+    <li>Button and Switch Input</li>
+    </ul>
+- name:  AI Core for Hex Game, Java
+  about: |
+    It was an undergraduate project of Artificial Intelligence and Expert System course that was implemented with Java. <br>
+    <br>
+    <b> Features:</b>
+    <ul>
+    <li>AI core was Implemented with A* algorithm in Java</li>
+    <li>Used Java FX for 2D graphic</li>
+    </ul>
+- name:  Multiplayer Memory Game, Java
+  about: |
+    It was an undergraduate project of Advanced Programming course that was implemented with Java, based on famous memory game.
+    <br><br>
+    <b> Features:</b>
+    <ul>
+    <li>Used Socket programming for Multiple players</li>
+    <li>Used Java GUI as a 2D graphic</li> 
+    <li>Record 10-top player score</li>
+    </ul>
+- name:   Data Structure of Social Media, Java
+  about: |
+    It was an undergraduate project of Data Structure written in Java.
     <br/><br/>
     <b> Features:</b>
     <ul>
-    <li>Three-level of permission access consists of the admin user, professor and student</li>
-    <li>Adding, updating and deleting posts as an admin user and professor author</li>
-    <li>Uploading Assignments with a specific deadline for each course</li>
-    <li>Separating each course and post with specific tags and categories</li>
-    <li>Session Management</li>
-    <li>Used MySQL Database</li>
+    <li>Using link list Structure for joining each nodes</li>
+    <li>Implemented Following and Follower of users</li>
+    <li>Login and register</li>
     </ul>
     
-- name: TCL Language Mini Compiler, Java
-  github_repo: PouriaRm/TCL-Mini-Compiler
+- name: Traffic Light, Assembly
   about: |
-   The <a href="https://github.com/PouriaRm/TCL-Mini-Compiler">TCL Language Mini Compiler</a> was an undergraduate project of Fundamentals of Compiler Design course that was implemented with Java. 
+   It was an undergraduate project of Microprocessors & Assembly course.
    <br/><br/>
    <b> Features:</b>
    <ul>
-   <li>Lexical Analysis</li>
-   <li>Syntax Analysis</li>
-   <li>Semantic Analysis</li>
-   <li>Used Java Cup library as a parser</li>
-   <li>Available on my Github page with detailed video</li>
+   <li>Designed for AVR microprocessor </li>
+   <li>simulated in the Proteus</li>
+   <li>Using Time with Counter in Assembly</li>
    </ul>   
-- name: Tower
-  link: https://myket.ir/app/com.rm.pouria.towergame?lang=en
+- name: Signal and Systems Problem
   about: |
-    The <a href="https://myket.ir/app/com.rm.pouria.towergame">Tower</a> is a game which the one who builds the tallest tower is the winner.
+    It was an undergraduate project of Signal and Systems course.
     <br><br>
     <b> Features:</b>
     <ul>
-    <li>Implemented with JS and bind with Java </li>
-    <li>Firebase cloud messaging for Android notification</li>
-    <li>Using Fabric Crashlitics for Analysing Users Experience</li>
-    <li>Implemented Tapsell Advertisement service</li>
-    <li>Available on Myket (Iranian Android Market)</li>
-    <li>Current active installation: upper 100 devices</li>
+    <li>Using Matlab Convolution</li>
+    <li>Calculating fourier function of signal</li>
+    <li>Ploting results in 2D</li>
     </ul>   
-- name: ABC IELTS, Android Application 
-  link: https://myket.ir/app/com.pouria.rm.abc?lang=en
+- name: Multiplayer Memory Game, Java
   about: |
-    The <a href="https://myket.ir/app/com.pouria.rm.abc?lang=en">ABC IELTS</a> is an Electronic edition of ABC IELTS Speaking book from Jungle Publication.
+    It was an undergraduate project of Advanced Programming course written in Java
     <br><br>
     <b> Features:</b>
     <ul>
-    <li>Reserving an Online Speaking interview for users</li>
-    <li>Available on Myket (Iranian Android Market)</li>
-    <li>Current active installation: upper 100 devices</li>
-    </ul>
+    <li>Used Socket programming for Multiple players</li>
+    <li>Used Java GUI as a 2D graphic</li>
+    <li>Record 10-top player score</li>
+    </ul>   
 
 # - name: CMS Medicaid Provider Charge Data Viz
 #   image: cmsviz.png
