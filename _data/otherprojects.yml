@@ -16,10 +16,10 @@
     It was a project for Elementary Data Science Summer School at IPM<br/><br/>
 
     <ul>
-    <li>Used the Laplace smoothing method α =1 in Simple Bayes</li>
+    <li>Used the Laplace smoothing method α =1 <br/>in Simple Bayes</li>
     <li>Work on Zebra Dataset</li>
-    <li>Wrote a report about Accuracy and Confusion Matrix for KNN for K=1, 5, 15</li>
-    <li>Wrote a report about Accuracy, Confusion Matrix, Precision, Recall and Measure for Simple Bayes</li>
+    <li>Wrote a report about Accuracy and Confusion<br/> Matrix for KNN for K=1, 5, 15</li>
+    <li>Wrote a report about Accuracy, Confusion Matrix,<br/> Precision, Recall and Measure for Simple Bayes</li>
     <li><i>Supervisor: Prof. Veisi</i></li>
     </ul>
 - name: <b>VHDL Ping Pong Game, VHDL</b>                                  
@@ -42,7 +42,7 @@
     It was an undergraduate project of Artificial <br/>Intelligence and Expert System course that was implemented with Java. <br>
     <br>
     <ul>
-    <li>AI core was Implemented with A* algorithm in Java</li>
+    <li>AI core was Implemented with A* algorithm <br/>in Java</li>
     <li>Used Java FX for 2D graphic</li>
     </ul>
 - name:  <b>Multiplayer Memory Game, Java</b>                           
