@@ -24,7 +24,7 @@
     </ul>
 - name: <b>VHDL Ping Pong Game, VHDL</b>                                  
   about: |
-    It was an undergraduate project of Computer Aided Digital System Design course written in VHDL and implemented on Altera Cyclone V.
+    It was an undergraduate project of Computer Aided<br/> Digital System Design course written in VHDL and implemented on Altera Cyclone V.
     <br><br>
     <ul>
     <li>Multiplayer: Battle against your friend</li>
