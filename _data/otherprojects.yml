@@ -39,7 +39,7 @@
     </ul>
 - name:  <b>AI Core for Hex Game, Java</b>                            
   about: |
-    It was an undergraduate project of Artificial Intelligence and Expert System course that was implemented with Java. <br>
+    It was an undergraduate project of Artificial <br/>Intelligence and Expert System course that was implemented with Java. <br>
     <br>
     <ul>
     <li>AI core was Implemented with A* algorithm in Java</li>
@@ -47,7 +47,7 @@
     </ul>
 - name:  <b>Multiplayer Memory Game, Java</b>                           
   about: |
-    It was an undergraduate project of Advanced Programming course that was implemented with Java, based on famous memory game.
+    It was an undergraduate project of Advanced <br/>Programming course that was implemented with Java, based on famous memory game.
     <br><br>
     <ul>
     <li>Used Socket programming for Multiple players</li>
@@ -66,7 +66,7 @@
     
 - name: <b>Traffic Light, Assembly</b>                            
   about: |
-   It was an undergraduate project of Microprocessors & Assembly course.
+   It was an undergraduate project of Microprocessors<br/> & Assembly course.
    <br/><br/>
    <ul>
    <li>Designed for AVR microprocessor </li>
@@ -75,7 +75,7 @@
    </ul>   
 - name: <b>Signal and Systems Problem</b>                              
   about: |
-    It was an undergraduate project of Signal and Systems course.
+    It was an undergraduate project of Signal<br/> and Systems course.
     <br><br>
     <ul>
     <li>Using Matlab Convolution</li>
