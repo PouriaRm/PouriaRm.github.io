@@ -11,7 +11,7 @@
     <li><i>Supervisor: Prof. Veisi</i></li>
     </ul>
   
-- name: <b>Classification of Persian texts with simple Bayes and KNN, Python</b>
+- name: <b>Classification of Persian texts with simple Bayes and KNN, Python</b>       
   about: |
     It was a project for Elementary Data Science Summer School at IPM<br/><br/>
 
@@ -22,7 +22,7 @@
     <li>Wrote a report about Accuracy, Confusion Matrix, Precision, Recall and Measure for Simple Bayes</li>
     <li><i>Supervisor: Prof. Veisi</i></li>
     </ul>
-- name: <b>VHDL Ping Pong Game, VHDL</b>
+- name: <b>VHDL Ping Pong Game, VHDL</b>                                  
   about: |
     It was an undergraduate project of Computer Aided Digital System Design course written in VHDL and implemented on Altera Cyclone V.
     <br><br>
@@ -37,7 +37,7 @@
     <li>Basic AI for paddles</li>
     <li>Button and Switch Input</li>
     </ul>
-- name:  <b>AI Core for Hex Game, Java</b>
+- name:  <b>AI Core for Hex Game, Java</b>                            
   about: |
     It was an undergraduate project of Artificial Intelligence and Expert System course that was implemented with Java. <br>
     <br>
@@ -45,7 +45,7 @@
     <li>AI core was Implemented with A* algorithm in Java</li>
     <li>Used Java FX for 2D graphic</li>
     </ul>
-- name:  <b>Multiplayer Memory Game, Java</b>
+- name:  <b>Multiplayer Memory Game, Java</b>                           
   about: |
     It was an undergraduate project of Advanced Programming course that was implemented with Java, based on famous memory game.
     <br><br>
@@ -64,7 +64,7 @@
     <li>Login and register</li>
     </ul>
     
-- name: <b>Traffic Light, Assembly</b>
+- name: <b>Traffic Light, Assembly</b>                            
   about: |
    It was an undergraduate project of Microprocessors & Assembly course.
    <br/><br/>
@@ -73,7 +73,7 @@
    <li>simulated in the Proteus</li>
    <li>Using Time with Counter in Assembly</li>
    </ul>   
-- name: <b>Signal and Systems Problem</b>
+- name: <b>Signal and Systems Problem</b>                              
   about: |
     It was an undergraduate project of Signal and Systems course.
     <br><br>
@@ -81,16 +81,7 @@
     <li>Using Matlab Convolution</li>
     <li>Calculating fourier function of signal</li>
     <li>Ploting results in 2D</li>
-    </ul>   
-- name: <b>Multiplayer Memory Game, Java</b>
-  about: |
-    It was an undergraduate project of Advanced Programming course written in Java
-    <br><br>
-    <ul>
-    <li>Used Socket programming for Multiple players</li>
-    <li>Used Java GUI as a 2D graphic</li>
-    <li>Record 10-top player score</li>
-    </ul>   
+    </ul>     
 
 # - name: CMS Medicaid Provider Charge Data Viz
 #   image: cmsviz.png
