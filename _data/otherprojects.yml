@@ -3,7 +3,6 @@
   about: |
     It was a project for Elementary Data Science Summer School at IPM.
     <br><br>
-    <b> Features:</b>
     <ul>
     <li>Classification of handwritten numbers with MLP Approach in Neural Network</li>
     <li>Comparison of a hidden layer with 200 and 600 Neuron</li>
@@ -12,10 +11,10 @@
     <li><i>Supervisor: Prof. Veisi</i></li>
     </ul>
   
-- name: Classification of Persian texts with simple Bayes and KNN, Python
+- name: <b>Classification of Persian texts with simple Bayes and KNN, Python</b>
   about: |
     It was a project for Elementary Data Science Summer School at IPM<br/><br/>
-    <b> Features:</b>
+
     <ul>
     <li>Used the Laplace smoothing method α =1 in Simple Bayes</li>
     <li>Work on Zebra Dataset</li>
@@ -23,11 +22,10 @@
     <li>Wrote a report about Accuracy, Confusion Matrix, Precision, Recall and Measure for Simple Bayes</li>
     <li><i>Supervisor: Prof. Veisi</i></li>
     </ul>
-- name: VHDL Ping Pong Game, VHDL
+- name: <b>VHDL Ping Pong Game, VHDL</b>
   about: |
     It was an undergraduate project of Computer Aided Digital System Design course written in VHDL and implemented on Altera Cyclone V.
     <br><br>
-    <b> Features:</b>
     <ul>
     <li>Multiplayer: Battle against your friend</li>
     <li>Playing against the AI</li>
@@ -39,61 +37,55 @@
     <li>Basic AI for paddles</li>
     <li>Button and Switch Input</li>
     </ul>
-- name:  AI Core for Hex Game, Java
+- name:  <b>AI Core for Hex Game, Java</b>
   about: |
     It was an undergraduate project of Artificial Intelligence and Expert System course that was implemented with Java. <br>
     <br>
-    <b> Features:</b>
     <ul>
     <li>AI core was Implemented with A* algorithm in Java</li>
     <li>Used Java FX for 2D graphic</li>
     </ul>
-- name:  Multiplayer Memory Game, Java
+- name:  <b>Multiplayer Memory Game, Java</b>
   about: |
     It was an undergraduate project of Advanced Programming course that was implemented with Java, based on famous memory game.
     <br><br>
-    <b> Features:</b>
     <ul>
     <li>Used Socket programming for Multiple players</li>
     <li>Used Java GUI as a 2D graphic</li> 
     <li>Record 10-top player score</li>
     </ul>
-- name:   Data Structure of Social Media, Java
+- name:   <b>Data Structure of Social Media, Java</b>
   about: |
     It was an undergraduate project of Data Structure written in Java.
     <br/><br/>
-    <b> Features:</b>
     <ul>
     <li>Using link list Structure for joining each nodes</li>
     <li>Implemented Following and Follower of users</li>
     <li>Login and register</li>
     </ul>
     
-- name: Traffic Light, Assembly
+- name: <b>Traffic Light, Assembly</b>
   about: |
    It was an undergraduate project of Microprocessors & Assembly course.
    <br/><br/>
-   <b> Features:</b>
    <ul>
    <li>Designed for AVR microprocessor </li>
    <li>simulated in the Proteus</li>
    <li>Using Time with Counter in Assembly</li>
    </ul>   
-- name: Signal and Systems Problem
+- name: <b>Signal and Systems Problem</b>
   about: |
     It was an undergraduate project of Signal and Systems course.
     <br><br>
-    <b> Features:</b>
     <ul>
     <li>Using Matlab Convolution</li>
     <li>Calculating fourier function of signal</li>
     <li>Ploting results in 2D</li>
     </ul>   
-- name: Multiplayer Memory Game, Java
+- name: <b>Multiplayer Memory Game, Java</b>
   about: |
     It was an undergraduate project of Advanced Programming course written in Java
     <br><br>
-    <b> Features:</b>
     <ul>
     <li>Used Socket programming for Multiple players</li>
     <li>Used Java GUI as a 2D graphic</li>
