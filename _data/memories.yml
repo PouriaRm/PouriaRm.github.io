@@ -1,0 +1,12 @@
+---
+- name: 
+  organization: 
+  image: 1.jpg
+  link: 
+  about: |
+    Graduation from the <a href="https://guilan.ac.ir/en">University of Guilan</a>     
+- name:
+  organization: 
+  image: 2.jpg
+  about: |
+    Attendance at the <a href="http://ds.ipm.ir/elementary-school/">the Elementary Data Science Summer School (EDS3)</a> at the <a href="http://www.ipm.ac.ir/">Institute for Research in Fundamental Sciences(IPM)</a>
